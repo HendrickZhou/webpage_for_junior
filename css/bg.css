@@ -29,7 +29,7 @@
 
 .box
 {
-	margin-top: 50px;
+	margin-top: 20px;
 	position: relative;
 	width: 150px;
 	height: 150px;
@@ -38,11 +38,11 @@
 
 .box .text
 {
-	margin-top: 20px;
+    margin-top: 20px;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     display: none;
-	color:white
+	color: white;
 }
 
 .box:hover img
